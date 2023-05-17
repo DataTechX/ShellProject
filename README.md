@@ -10,7 +10,7 @@ The engine is written as a plugin for `D3D9TestEnvironment`, and only support ea
 
 The source code is provided exclusively for educational purposesm, and I take no responsibility for what you do with it.
 
-My Bachelor;s degree is Further included as a PDF, which you may read to better understand th subject and project
+My Bachelor's degree is Further included as a PDF, which you may read to better understand th subject and project
 
 ### Dependencuies
 
